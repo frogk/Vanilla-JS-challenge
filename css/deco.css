@@ -71,7 +71,7 @@ img{
 }
 
 h2{
-    font-size: 150px;
+    font-size: 100px;
     font-weight: bold;
     position: absolute;
     top: 20%;
@@ -83,7 +83,7 @@ h2{
 
 h1{
     color: #ECF87F;
-    font-size: 60px;
+    font-size: 50px;
     position: absolute;
     top: 65%;
     left: 50%;
@@ -113,7 +113,7 @@ h1{
 
 .todo{
     background-color: #76b9478a;
-    width: 400px;
+    width: 350px;
     padding: 30px 30px;
     color: #fff;
     position: absolute;
@@ -123,8 +123,8 @@ h1{
 }
 
 .todo #todo-form input[type="text"]{
-    font-size: 25px;
-    width: 400px;
+    font-size: 20px;
+    width: 350px;
     height: 30px;
     line-height: 20px;
     background-color: transparent;
